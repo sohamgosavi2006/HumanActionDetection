@@ -3,6 +3,11 @@ This project applies deep learning with TensorFlow/Keras to detect and classify 
 
 Mobile Health Raw Dataset -> https://www.kaggle.com/datasets/gaurav2022/mobile-health
 
+Accuracy Obtained for 'k' values ->
+
+<img width="559" height="700" alt="Screenshot 2025-08-26 at 9 31 14 AM" src="https://github.com/user-attachments/assets/f705bf28-aff5-49c4-8604-212bb1b27e89" />
+
+
 🚀 Features --->
 
 1.) Dataset: mHealth (wearable sensor signals for daily activities)
